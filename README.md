@@ -6,8 +6,8 @@
 ----------------------------
 2. Simpan File di xampp/htdocs
 -------------------------------
-3.Buat/import database ( dbuser.sql ) dan ( id_card.sql )
+3. Buat/import database ( dbuser.sql ) dan ( id_card.sql )
 ----------------------------------------------------------
-4.Buka website di search google http://localhost/Tugas%20Akhir/perpus/index.html
+4. Buka website di search google http://localhost/Tugas%20Akhir/perpus/index.html
 --------------------------------------------------------------------------------
 5. selesai
