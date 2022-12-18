@@ -1,5 +1,5 @@
 # Perpustakaan
-*email = dian2314@gmail.com
+*username = Iyan
 *password = admin
 
 1. Ekstrak File perpus.rar
