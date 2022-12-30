@@ -2,7 +2,7 @@
 *username = Iyan
 *password = admin
 
-1. Ekstrak File perpus.rar
+1. Ekstrak File perpustakaan.rar
 ----------------------------
 2. Simpan File di xampp/htdocs
 -------------------------------
